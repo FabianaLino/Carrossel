@@ -17,11 +17,11 @@ function App() {
                         src="https://imgcentauro-a.akamaihd.net/230x230/94313731.jpg"
                         alt="Produto Tenis"
                     />
-                </div>
-                <div className="info">
-                    <span className="name">Tenis</span>
-                    <span className="oldPrice">R$289,90</span>
-                    <span className="price">R$199,90</span>
+                    <div className="info">
+                        <span className="name">Tenis</span>
+                        <span className="oldPrice">R$289,90</span>
+                        <span className="price">R$199,90</span>
+                    </div>
                 </div>
             </div>
         </div>

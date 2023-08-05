@@ -27,7 +27,7 @@ body {
 .container .carousel .item {
     background-color: white;
     margin: 10px;
-    padding: 10px;
+    padding: 25px;
     width: 280px;
     border-radius: 16px;
 }
@@ -57,17 +57,20 @@ body {
     font-size: 1.2rem;
     font-weight: bold;
     margin: 10px 0;
+    font-size: 25px;
 }
 
 .container .carousel .item .info .oldPrice {
     font-size: 0.8rem;
     text-decoration: line-through;
     flex-grow: 1;
+    font-size: 25px;
 }
 
 .container .carousel .item .info .price {
     margin-top: 10px;
     font-size: 1.2rem;
     font-weight: bold;
-    background-color: #c91313;
+    background-color: #f75e08;
+    font-size: 30px;
 }

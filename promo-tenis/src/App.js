@@ -18,7 +18,7 @@ function App() {
                         alt="Produto Tenis"
                     />
                     <div className="info">
-                        <span className="name">Tenis</span>
+                        <span className="name">Promo Tenis</span>
                         <span className="oldPrice">R$289,90</span>
                         <span className="price">R$199,90</span>
                     </div>

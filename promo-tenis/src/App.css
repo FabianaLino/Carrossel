@@ -24,12 +24,17 @@ body {
     scroll-behavior: smooth;
 }
 
+.container .carousel::-webkit-scrollbar {
+    display: none;
+}
+
 .container .carousel .item {
     background-color: white;
     margin: 10px;
-    padding: 25px;
+    padding: 10px;
     width: 280px;
     border-radius: 16px;
+    flex: none;
 }
 
 .container .carousel .item .image img {
@@ -39,7 +44,7 @@ body {
 }
 
 .container .carousel .item .info {
-    height: 140px;
+    height: 145px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -54,23 +59,36 @@ body {
 }
 
 .container .carousel .item .info .name {
-    font-size: 1.2rem;
+    font-size: 18px;
     font-weight: bold;
-    margin: 10px 0;
-    font-size: 25px;
+    margin: 0;
+    color: rgb(17, 148, 93);
 }
 
 .container .carousel .item .info .oldPrice {
-    font-size: 0.8rem;
-    text-decoration: line-through;
-    flex-grow: 1;
     font-size: 25px;
+    text-decoration: line-through;
+    color: crimson;
 }
 
 .container .carousel .item .info .price {
-    margin-top: 10px;
-    font-size: 1.2rem;
+    margin-top: 0;
+    font-size: 30px;
     font-weight: bold;
     background-color: #f75e08;
-    font-size: 30px;
+}
+
+.container .buttons {
+    width: 100%;
+    text-align: center;
+}
+
+.container .buttons button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+.container .buttons button:first-child img {
+    transform: rotate(180deg);
 }

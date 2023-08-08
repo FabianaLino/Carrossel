@@ -4,7 +4,7 @@
 
 ##### Segue abaixo layout da aplicação:
 
-<video src="promo-tenis/public/static/Images/VideoCarrossel.mp4" controls title="Layout.JPG"></video>
+<video src="promo-tenis/public/static/Images/VideoCarrossel.mp4" controls title="Vídeo Layout"></video>
 
 ---
 
@@ -34,4 +34,5 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="center" height="50" width="60">
 </div>
+
 

@@ -1,10 +1,10 @@
 # Carousel com React.
 
-##### Neste projeto foi desenvolvido um carrossel de produtos em oferta, com a criação de uma loja fictícia. Utilizando tecnologias como HTML, CSS, JavaScript, funcionalidades useEffect, useState e useRef do React e também usei a Lib framer-motion, para dar movimento ao logo da loja ao recarregar a página.
+##### Neste projeto foi desenvolvido um carrossel de produtos em oferta, com a criação de uma loja fictícia. Utilizando tecnologias como HTML, CSS, JavaScript, funcionalidades useEffect, useState e useRef do React e usei a Lib framer-motion, para dar movimento ao logo da loja ao recarregar a página.
 
 ##### Segue abaixo layout da aplicação:
 
-<video src="promo-tenis/public/static/Images/VideoCarrossel.mp4" controls title="Vídeo Layout"></video>
+<video src="promo-tenis/public/static/Images/VideoCarrossel.mp4" controls title="VideoCarrossel.mp4"></video>
 
 ---
 

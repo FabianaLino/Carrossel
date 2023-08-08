@@ -26,7 +26,7 @@ function App() {
 
     return (
         <div className="container">
-            <motion.div animate={{ x: -30, y: 25 }} className="logo">
+            <motion.div animate={{ x: -30, y: 35 }} className="logo">
                 <img
                     src="/static/images/logolojatenis.png"
                     width={270}

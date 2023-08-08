@@ -7,6 +7,7 @@
 body {
     width: 100%;
     min-height: 60vh;
+    max-height: 90vh;
     background-color: rgb(216, 198, 177);
     color: rgb(39, 39, 39);
     display: flex;
